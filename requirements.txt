@@ -1,0 +1,2 @@
+# The initial data preparation and tests use Python 3.12 standard library only.
+# Add tested, pinned model dependencies when integrating the model pipeline.
