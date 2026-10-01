@@ -1,0 +1,7 @@
+{
+  "gap_seconds": 0.15,
+  "train_fraction": 0.70,
+  "validation_fraction": 0.15,
+  "strategy": "chronological_within_each_source",
+  "note": "Internal two-session evaluation, NOT held-out-date generalization."
+}
