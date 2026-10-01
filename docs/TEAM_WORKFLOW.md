@@ -2,7 +2,7 @@
 
 ## 저장소 개설
 
-개인 계정의 Private 저장소에 팀원을 초대하거나, 기존 조직에 Private 저장소를 만듭니다. 조직은 GitHub에서 공동 소유하는 팀 공간이며 필수는 아닙니다.
+현재 저장소는 사용자 선택에 따라 공개(Public)입니다: https://github.com/goddesse12-coder/pump-ai-team . 팀원을 Collaborator로 초대하면 같은 저장소의 기능별 브랜치에서 협업할 수 있습니다. 원본 센서 데이터와 로컬 환경은 업로드하지 않습니다. 조직은 GitHub에서 공동 소유하는 팀 공간이며 필수는 아닙니다.
 
 이 프로젝트의 로컬 폴더 이름은 `fineblanking-pump-anomaly`입니다. 원격 저장소 주소는 GitHub에서 실제 생성된 주소를 사용하세요. 개인 계정 또는 조직 이름을 임의로 넣지 마세요.
 
