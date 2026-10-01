@@ -45,7 +45,7 @@ cd pump-ai-team
 python -m unittest discover -s tests -v
 ```
 
-비공개 저장소 clone은 팀원 초대 수락과 GitHub 인증이 필요합니다. 아래 원본 파일을 준비한 뒤 실행합니다.
+공개 저장소이므로 누구나 clone할 수 있습니다. 직접 push하려면 팀원 초대 수락과 GitHub 인증이 필요합니다. 아래 원본 파일을 준비한 뒤 실행합니다.
 
 ```bash
 python scripts/prepare_data.py --data-dir data/raw --output-dir outputs/preparation
@@ -122,7 +122,7 @@ main                         검증된 기준 버전
     └── analysis/errors     오류 분석
 ```
 
-같은 비공개 저장소에 초대된 팀원이 기능별 브랜치로 작업합니다. 기능 PR은 `develop`으로, 검증된 통합 결과는 `main`으로 보냅니다. 브랜치 보호는 별도 설정 사항이며 문서만으로 강제되지 않습니다.
+같은 저장소에 초대된 팀원이 기능별 브랜치로 작업합니다. 기능 PR은 `develop`으로, 검증된 통합 결과는 `main`으로 보냅니다. 브랜치 보호는 별도 설정 사항이며 문서만으로 강제되지 않습니다.
 
 ```bash
 git switch develop
